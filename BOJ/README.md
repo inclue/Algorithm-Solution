@@ -19,4 +19,4 @@
 * 2주 연속 혹은 3주 동안 목표를 달성하지 못한 경우 스터디 참여 의사가 없는 것으로 간주하고 스터디 진행에서 제외함.
 
 ## 진행 상황
-* [NORMAL 진행 상황 확인](링크)
+* [NORMAL 진행 상황 확인](https://docs.google.com/spreadsheets/d/1R9BQneKpjKiVlNbxXiOSMmQF1YPbWtDxGCMc4gMryvY/edit?usp=sharing)
