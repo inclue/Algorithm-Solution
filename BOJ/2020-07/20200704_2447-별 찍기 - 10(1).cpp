@@ -27,7 +27,7 @@ void divcon(int sx,int ex,int sy,int ey,bool check)
 
 int main()
 {
-	int n;
+  int n;
   scanf("%d",&n);
   divcon(0,n,0,n,true);
   for(int i=0;i<n;i++)
