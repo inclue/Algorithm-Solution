@@ -30,11 +30,11 @@ void dfs(int num,int cnt)
 	}
 	else //치킨집 선택 여부
 	{
-    //선택 시
+		//선택 시
 		visit[num]=true;
 		dfs(num+1,cnt+1);
     
-    //비선택 시
+		//비선택 시
 		visit[num]=false;
 		dfs(num+1,cnt);
 	}
