@@ -11,7 +11,7 @@ vector<int> solution(vector<int> numbers)
             answer.push_back(numbers[i]+numbers[j]);
     }
     
-    //정렬 후 중복 제거
+    //정렬 후 중복 제거하기
     std::sort(answer.begin(),answer.end());
     answer.erase(unique(answer.begin(),answer.end()),answer.end());
     return answer;
