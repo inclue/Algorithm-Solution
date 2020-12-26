@@ -1,7 +1,8 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-string solution(vector<string> participant, vector<string> completion) {
+string solution(vector<string> participant, vector<string> completion)
+{
     //정렬하기
     sort(participant.begin(), participant.end());
     sort(completion.begin(), completion.end());
