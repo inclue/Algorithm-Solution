@@ -5,7 +5,7 @@ int solution(int n)
 {
     vector<int> dp(n + 1, 0);
     
-    //초기값
+    //초기값 설정
     dp[0] = 1, dp[1] = 1;
     
     //점화식
