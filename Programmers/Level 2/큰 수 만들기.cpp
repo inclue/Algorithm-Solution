@@ -3,7 +3,8 @@
 
 using namespace std;
 
-string solution(string number, int k) {
+string solution(string number, int k)
+{
     string answer = "";
     int idx = 0;
     
